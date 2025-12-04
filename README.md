@@ -1,35 +1,35 @@
-Z. Erden Dereli (zeddy35)
-Full Stack Web Developer
+# Z. Erden Dereli (zeddy35)
+### Full Stack Web Developer
 
-I am a second-year Computer Engineering student focused on Full Stack Web Development, building clean, scalable, and modern web applications. I work mainly with React/Next.js, Node.js/Express, and MongoDB.
+I am a Computer Engineering student focused on building clean, scalable, and modern full-stack applications.  
+My main stack includes **React/Next.js**, **Node.js/Express**, and **MongoDB**, with a strong interest in UI/UX and developer experience.
 
-Skills
+---
 
-Frontend: React, Next.js, JavaScript, TypeScript, TailwindCSS
-Backend: Node.js, Express.js, MongoDB
-Tools: Git, GitHub, Vercel, Cloudflare, Postman, Figma
+## 🛠 Skills
+**Frontend:** React, Next.js, JavaScript, TypeScript, TailwindCSS  
+**Backend:** Node.js, Express.js, MongoDB  
+**Tools:** Git, GitHub, Vercel, Cloudflare, Postman, Figma  
 
-About Me
+---
 
-Passionate about building professional full-stack applications
+## 📌 About Me
+- Passionate about creating polished and production-ready web apps  
+- Experience with real client projects (corporate websites, booking systems, education tools)  
+- Active in student tech communities (GDG on Campus, Eurodesk)  
+- Enjoy blending engineering + design for better user experience  
 
-Strong interest in UI/UX, product design, and developer experience
+---
 
-Experience with real client projects (construction, booking systems, education apps)
+## 🎯 Current Focus
+- Strengthening scalable backend & system design skills  
+- Building high-quality full-stack projects  
+- Preparing for **Summer 2026 internships** (US / Remote)
 
-Active in student communities (GDG on Campus, Eurodesk)
+---
 
-Current Focus
-
-Improving system design & scalable backend skills
-
-Building production-ready full-stack applications
-
-Preparing for Summer 2026 internships (US / Remote)
-
-Contact
-
-Portfolio: erdendereli.com
-LinkedIn: linkedin.com/in/zeddy35
-GitHub: github.com/zeddy35
-Email: erdendereli.dev@gmail.com
+## 📫 Contact
+**Portfolio:** https://erdendereli.com  
+**LinkedIn:** https://linkedin.com/in/zeddy35  
+**GitHub:** https://github.com/zeddy35  
+**Email:** erdendereli.dev@gmail.com
