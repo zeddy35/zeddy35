@@ -1,16 +1,35 @@
-## Hi there 👋
+Z. Erden Dereli (zeddy35)
+Full Stack Web Developer
 
-<!--
-**zeddy35/zeddy35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year Computer Engineering student focused on Full Stack Web Development, building clean, scalable, and modern web applications. I work mainly with React/Next.js, Node.js/Express, and MongoDB.
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, Next.js, JavaScript, TypeScript, TailwindCSS
+Backend: Node.js, Express.js, MongoDB
+Tools: Git, GitHub, Vercel, Cloudflare, Postman, Figma
+
+About Me
+
+Passionate about building professional full-stack applications
+
+Strong interest in UI/UX, product design, and developer experience
+
+Experience with real client projects (construction, booking systems, education apps)
+
+Active in student communities (GDG on Campus, Eurodesk)
+
+Current Focus
+
+Improving system design & scalable backend skills
+
+Building production-ready full-stack applications
+
+Preparing for Summer 2026 internships (US / Remote)
+
+Contact
+
+Portfolio: erdendereli.com
+LinkedIn: linkedin.com/in/zeddy35
+GitHub: github.com/zeddy35
+Email: erdendereli.dev@gmail.com
